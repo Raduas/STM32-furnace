@@ -31,7 +31,7 @@ System debugging and troubleshooting.
 
 ## PCB Design
 
-![PCB](img/PCB.jpg)
+![PCB](img/PCB.png)
 
 ## Schematic
 
